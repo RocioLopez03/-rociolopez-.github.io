@@ -4,7 +4,7 @@ Primer Feed RSS
 <rss version="2.0">
     <channel>
         <title>Primer Feed RSS</title>
-        <link>https://ejemplo.rss</link>
+        <link>[https://ejemplo.rss](https://github.com/RocioLopez03/-rociolopez-.github.io)</link>
         <description>Actividad de un RSS</description>
         <language>es-ES</language>
         <webMaster>a23lomuro@iesgrancapitan.org (Rocío López Muñoz)</webMaster>
