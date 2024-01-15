@@ -1,6 +1,8 @@
 # -rociolopez-.github.io
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
+    
     <channel>
         <title>Primer Feed RSS</title>
         <link>[https://ejemplo.rss](https://github.com/RocioLopez03/-rociolopez-.github.io)</link>
@@ -10,7 +12,7 @@
         <generator>Visual Studio Code</generator>
        <lastBuildDate>Mon,09 Jan 2024 00:00:00 -0500</lastBuildDate>
         <copyright>Rocío López – Todos los derechos reservados</copyright>
-
+        
         <item>
             <title>Tensa cuenta atrás para la primera gran votación de la legislatura: el Gobierno ve factible incorporar cambios de Junts pero no del PP</title>
             <link>https://elpais.com/espana/2024-01-09/tensa-cuenta-atras-para-la-primera-gran-votacion-de-la-legislatura.html</link>
