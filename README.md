@@ -10,8 +10,7 @@ Primer Feed RSS
         <webMaster>a23lomuro@iesgrancapitan.org (Rocío López Muñoz)</webMaster>
         <generator>Visual Studio Code</generator>
        <lastBuildDate>Mon,09 Jan 2024 00:00:00 -0500</lastBuildDate>
-
-<copyright>Rocío López – Todos los derechos reservados</copyright>
+        <copyright>Rocío López – Todos los derechos reservados</copyright>
 
         <item>
             <title>Tensa cuenta atrás para la primera gran votación de la legislatura: el Gobierno ve factible incorporar cambios de Junts pero no del PP</title>
